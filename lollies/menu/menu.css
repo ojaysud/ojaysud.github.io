@@ -25,3 +25,15 @@ body {
     width: 310px;
     margin: 5px;
 }
+
+img {
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 80px;
+}
+
+.name-of {
+    font-weight: bold;
+    text-align: center;
+}
