@@ -64,3 +64,54 @@
     font-family: 'Montserrat';
     font-size: 16px;
 }
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 150px;
+    background-color: white;
+}
+
+.button {
+    width: 160px;
+    height: 50px;
+    border-radius: 100px;
+    border: 1px solid black;
+    background-image: linear-gradient(to top right, darkblue, white);
+    text-align: center;
+    margin: 10px;
+}
+
+.button-text {
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    margin-top: 12.5px;
+}
+
+.div-text {
+    font-family: 'Montserrat';
+    font-size: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.info {
+    font-family: 'Montserrat';
+    font-size: 25px;
+    margin-left: 100px;
+}
+
+body {
+    background-color: rgb(72, 82, 82);
+}
+
+.hamburger {
+    width: 100px;
+    height: 100px;
+}
