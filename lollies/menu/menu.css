@@ -37,3 +37,10 @@ img {
     font-weight: bold;
     text-align: center;
 }
+
+.warning {
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    background-color: white;
+}
